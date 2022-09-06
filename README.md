@@ -17,7 +17,7 @@ Save the main file and run the program
 ```
 go run main.go
 ```
-Now go to your slack channel call the bot which @<botname>\
+Now go to your slack channel call the bot which `@<botname>`
 ```
 @age-bot my yob is 1998
 ```
